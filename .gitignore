@@ -1,0 +1,4 @@
+windows/vagrant-win*
+*.obj
+*.exe
+*.dll
