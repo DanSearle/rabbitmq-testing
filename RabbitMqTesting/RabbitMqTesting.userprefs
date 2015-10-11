@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RabbitMqTesting/RabbitMqNotificationPublisher.cs">
+    <Files>
+      <File FileName="RabbitMqClientApplication/Program.cs" Line="51" Column="3" />
+      <File FileName="RabbitMqTesting/RabbitMqNotificationPublisher.cs" Line="75" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
